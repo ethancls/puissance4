@@ -1,0 +1,15 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Préface}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Présentation des objectifs}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Compilation et exécution du programme}{5}{section.2}%
+\contentsline {section}{\numberline {3}Implémentation de la partie "Multijoueur local"}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Prérequis}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Prototypes des fonctions et logique}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Implémentation de la partie "Solo"}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Prérequis}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Discussion autour de l'algorithme MiniMax}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Élagage Alpha-Bêta}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Création de l'arbre et application des scores dans la remontée}{9}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Implémentation du MiniMax avec élagage Alpha-Bêta et de l'heuristique d'évaluation}{10}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Conclusion}{12}{section.5}%
